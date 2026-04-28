@@ -7,7 +7,7 @@
 - <b>Ticketing System Simulator</b>
   
 
-<h2>📺 Certifications </h2>
+<h2>📝 Certifications </h2>
 
 - CompTIA A+ Certification - Expected May. 2026
 

@@ -7,7 +7,8 @@
 <img width="1170" height="720" alt="path3" src="https://github.com/user-attachments/assets/1dbddb16-ba2b-4dc9-9fa6-0e79946914cb" />
 
 - <b>Ticketing System Simulator</b>
-  
+
+  <img width="1896" height="508" alt="ticket 1" src="https://github.com/user-attachments/assets/37ceb94d-a340-406a-941d-582f058ca8de" />
 
 <h2>📝 Certifications </h2>
 

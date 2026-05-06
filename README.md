@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Support Projects:</h2>
 
 - <b>Active Directory Home Lab</b>
-  <img width="1655" height="747" alt="path2" src="https://github.com/user-attachments/assets/39e6ceb5-f6a9-4e8a-8fe4-fd3e6a97b504" />
+<img width="1655" height="747" alt="path2" src="https://github.com/user-attachments/assets/39e6ceb5-f6a9-4e8a-8fe4-fd3e6a97b504" />
 <img width="1170" height="720" alt="path3" src="https://github.com/user-attachments/assets/1dbddb16-ba2b-4dc9-9fa6-0e79946914cb" />
 
 - <b>Ticketing System Simulator</b>

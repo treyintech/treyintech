@@ -13,7 +13,7 @@
 
 <h2>📝 Certifications </h2>
 
-- CompTIA A+ Certification - Expected May. 2026
+- CompTIA A+ Certification - May. 2026
 
 <h2> 🤳 Connect with me:</h2>
 

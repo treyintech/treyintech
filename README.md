@@ -9,6 +9,7 @@
 - <b>Ticketing System Simulator</b>
 
 <img width="1899" height="902" alt="ticket simulator 3" src="https://github.com/user-attachments/assets/bc05dc03-72cc-4432-bf04-ea9261c9e138" />
+<img width="1529" height="721" alt="servicedesk" src="https://github.com/user-attachments/assets/4c880e01-36e6-4551-a9d9-886271a9aaa2" />
 
 
 <h2>📝 Certifications </h2>

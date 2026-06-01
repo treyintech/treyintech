@@ -1,26 +1,52 @@
-<h1>Hi, I'm Trey!</h1>
-
-<h2>👨‍💻 IT Support Projects:</h2>
-
-- <b>Active Directory Home Lab</b>
-<img width="1655" height="747" alt="path2" src="https://github.com/user-attachments/assets/39e6ceb5-f6a9-4e8a-8fe4-fd3e6a97b504" />
-<img width="1170" height="720" alt="path3" src="https://github.com/user-attachments/assets/1dbddb16-ba2b-4dc9-9fa6-0e79946914cb" />
-
-- <b>Ticketing System Simulator</b>
-
-<img width="1899" height="902" alt="ticket simulator 3" src="https://github.com/user-attachments/assets/bc05dc03-72cc-4432-bf04-ea9261c9e138" />
-<img width="1529" height="721" alt="servicedesk" src="https://github.com/user-attachments/assets/4c880e01-36e6-4551-a9d9-886271a9aaa2" />
+# Hello, I'm Tremaine
+<a href="https://linkedin.com/in/tremaine-mcadams-a962bb205/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-<h2>📝 Certifications </h2>
+I am an IT support analyst with a profound interest in technology and a dedication to solving complex problems.
 
-- CompTIA A+ Certification - May 2026
-- CompTIA Security+ Certification - Expected June 2026
+## Objective
 
-<h2> 🤳 Connect with me:</h2>
+My journey in information technology has led me to develop a passion for end user support, and I am now eager to transition into this field, specifically aiming to become a help desk support analyst.
+## Skills
 
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Virtualization Implementation      | <a href="https://google.com">Active Directory Home Lab</a>|
+| Group Policy Configuration | <a href="https://google.com">Active Directory Home Lab</a>|
+| Automated User Account Creation        | Active Directory Home Lab|
+| Remote Connection & User Support    | ServiceDesk Simulator|
+| User Onboarding and Offboarding     | ServiceDesk Simulator|
+| Network Connectivity Troubleshooting                  | ServiceDesk Simulator|
+| Use of Documentation in Ticket Remediation | ServiceDesk Simulator|
 
-[twitter]: https://twitter.com/treyintech
-[linkedin]: https://linkedin.com/in/tremaine-mcadams-a962bb205
+## Tools
+
+### Operating Systems
+<div>
+<img src="https://img.shields.io/badge/-Windows%20Server%202025-0078D6?&style=for-the-badge&logo=windows&logoColor=white">    
+<img src="https://img.shields.io/badge/-Windows%2011-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
+</div>
+
+### Virtualization
+<div>
+ <img src="https://img.shields.io/badge/-Oracle%20VirtualBox-2A5DB0?&style=for-the-badge&logo=virtualbox&logoColor=white" />
+</div>
+
+### Ticketing Systems
+<div>
+    <img src="https://img.shields.io/badge/-ServiceNow-00B59C?&style=for-the-badge&logo=servicenow&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zendesk-78A300?&style=for-the-badge&logo=zendesk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Spiceworks-009FDA?&style=for-the-badge&logo=spiceworks&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ServiceDesk%20Simulator-4B77BE?&style=for-the-badge" />
+</div>
+
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+                          (Security+ in progress expected June 2026)
+</div>
+
+## Projects
+- Active Directory Home Lab Project
+- Service Desk Simulator 

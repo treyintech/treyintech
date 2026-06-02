@@ -14,10 +14,10 @@ My journey in information technology has led me to develop a passion for end use
 | Virtualization Implementation      | <a href="https://github.com/treyintech/Active-Directory-Home-Lab/">Active Directory Home Lab</a>|
 | Group Policy Configuration | <a href="https://github.com/treyintech/Active-Directory-Home-Lab/">Active Directory Home Lab</a>|
 | Automated User Account Creation        | <a href="https://github.com/treyintech/Active-Directory-Home-Lab/">Active Directory Home Lab</a>|
-| Remote Connection & User Support    | ServiceDesk Simulator|
-| User Onboarding and Offboarding     | ServiceDesk Simulator|
-| Network Connectivity Troubleshooting                  | ServiceDesk Simulator|
-| Use of Documentation in Ticket Remediation | ServiceDesk Simulator|
+| Remote Connection & User Support    | <a href="https://github.com/treyintech/Service-Desk-Simulator/">Active Directory Home Lab</a>|
+| User Onboarding and Offboarding     | <a href="https://github.com/treyintech/Service-Desk-Simulator/">Active Directory Home Lab</a>|
+| Network Connectivity Troubleshooting                  | <a href="https://github.com/treyintech/Service-Desk-Simulator/">Active Directory Home Lab</a>|
+| Use of Documentation in Ticket Remediation | <a href="https://github.com/treyintech/Service-Desk-Simulator/">Active Directory Home Lab</a>|
 
 ## Tools
 
@@ -49,4 +49,4 @@ My journey in information technology has led me to develop a passion for end use
 
 ## Projects
 - <a href="https://github.com/treyintech/Active-Directory-Home-Lab/">Active Directory Home Lab</a>
-- Service Desk Simulator 
+- <a href="https://github.com/treyintech/Service-Desk-Simulator/">Active Directory Home Lab</a>

@@ -11,9 +11,9 @@ My journey in information technology has led me to develop a passion for end use
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Virtualization Implementation      | <a href="https://google.com">Active Directory Home Lab</a>|
-| Group Policy Configuration | <a href="https://google.com">Active Directory Home Lab</a>|
-| Automated User Account Creation        | Active Directory Home Lab|
+| Virtualization Implementation      | <a href="https://github.com/treyintech/Active-Directory-Home-Lab/">Active Directory Home Lab</a>|
+| Group Policy Configuration | <a href="https://github.com/treyintech/Active-Directory-Home-Lab/">Active Directory Home Lab</a>|
+| Automated User Account Creation        | <a href="https://github.com/treyintech/Active-Directory-Home-Lab/">Active Directory Home Lab</a>|
 | Remote Connection & User Support    | ServiceDesk Simulator|
 | User Onboarding and Offboarding     | ServiceDesk Simulator|
 | Network Connectivity Troubleshooting                  | ServiceDesk Simulator|

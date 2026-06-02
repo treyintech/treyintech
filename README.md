@@ -48,5 +48,5 @@ My journey in information technology has led me to develop a passion for end use
 </div>
 
 ## Projects
-- Active Directory Home Lab Project
+- <a href="https://github.com/treyintech/Active-Directory-Home-Lab/">Active Directory Home Lab</a>
 - Service Desk Simulator 
